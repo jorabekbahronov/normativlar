@@ -1,0 +1,24 @@
+.black {
+  background-color: black;   
+  color: rgb(255, 255, 255);              
+  padding: 20px;             
+  width: 100%;               
+  font-weight: bold;    
+  width: 1440px;
+  height: 48px;     
+}
+
+.gr{
+justify-content: center;
+text-align: center;
+display: flex;
+align-items: center;
+
+
+}
+
+.gt{
+    align-items: center;
+    text-align:center ;
+    justify-content: center;
+}
